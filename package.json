@@ -1,0 +1,26 @@
+{
+  "name": "min-hbs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Demonico/min-hbs.git"
+  },
+  "keywords": [],
+  "author": "Jarrod Van Doren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Demonico/min-hbs/issues"
+  },
+  "homepage": "https://github.com/Demonico/min-hbs#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0"
+  }
+}
